@@ -1,4 +1,4 @@
-# TCCs do BCC 2020 1º semestre
+# TCCs do BCC 2019 1º semestre
 
 A publicação dos TCCs de BCC tem por objetivo inspirar e
 apresentar aos alunos, professores, funcionários e a comunidade (em especial as
